@@ -1,0 +1,56 @@
+[
+  {
+    "variety": "Pinot Noir",
+    "hex": "#ad2e41",
+    "start_cx": 800,
+    "start_cy": 100,
+    "color": "red",
+    "color_cx": 650,
+    "color_cy": 400
+  },
+  {
+    "variety": "Cabernet Sauvignon",
+    "hex": "#68171b",
+    "start_cx": 860,
+    "start_cy": 100,
+    "color": "red",
+    "color_cx": 720,
+    "color_cy": 400
+  },
+  {
+    "variety": "Merlot",
+    "hex": "#92321e",
+    "start_cx": 920,
+    "start_cy": 100,
+    "color": "red",
+    "color_cx": 790,
+    "color_cy": 400
+  },
+  {
+    "variety": "Sauvignon Blanc",
+    "hex": "#f7f5a7",
+    "start_cx": 980,
+    "start_cy": 100,
+    "color": "white",
+    "color_cx": 1200,
+    "color_cy": 400
+  },
+  {
+    "variety": "Chardonnay",
+    "hex": "#ead183",
+    "start_cx": 1040,
+    "start_cy": 100,
+    "color": "white",
+    "color_cx": 1260,
+    "color_cy": 400
+  },
+  {
+    "variety": "Rose",
+    "hex": "#df6a72",
+    "start_cx": 1100,
+    "start_cy": 100,
+    "color": "pink",
+    "color_cx": 1000,
+    "color_cy": 400
+  }
+]
